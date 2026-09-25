@@ -159,8 +159,6 @@ Thanks to Cognifyz Technologies for the internship opportunity and dataset.
 
 ⭐ If you found this project useful, consider starring the repo.
 
-text
-
 ---
 
 ## Push it
